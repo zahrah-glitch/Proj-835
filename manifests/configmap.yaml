@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+  namespace: final
+data:
+  IMAGE_URL: "s3://clo835-bg-zahrah/background.jpg"
+  APP_COLOR: "blue"
+  APP_HEADER_NAME: "Zahrah"
