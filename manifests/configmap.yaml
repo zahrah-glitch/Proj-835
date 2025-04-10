@@ -4,6 +4,6 @@ metadata:
   name: app-config
   namespace: final
 data:
-  IMAGE_URL: "s3://clo835-bg-zahrah/background.jpg"
+  IMAGE_URL: "s3://clo835-bg-zahrah/newbg.jpg"
   APP_COLOR: "blue"
   APP_HEADER_NAME: "Zahrah"
